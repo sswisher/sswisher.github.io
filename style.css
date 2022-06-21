@@ -1,0 +1,22 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  color: #2b2d42;
+}
+
+h1 {
+  font-family: "Ubuntu Mono", monospace;
+  font-size: 48px;
+  font-weight: 700;
+  color: #1d3557;
+}
+
+h2 {
+  font-size: 20px;
+  color: #457b9d;
+}
+
+img {
+  border: 1px solid #edf2f4;
+  border-radius: 30px;
+}
